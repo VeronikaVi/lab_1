@@ -1,0 +1,7 @@
+/Users/macbookair132014/Desktop/untitled folder/lab1_1/lab1_1/bin/Debug/lab1_1.exe
+/Users/macbookair132014/Desktop/untitled folder/lab1_1/lab1_1/bin/Debug/lab1_1.pdb
+/Users/macbookair132014/Desktop/untitled folder/lab1_1/lab1_1/obj/Debug/lab1_1.csproj.AssemblyReference.cache
+/Users/macbookair132014/Desktop/untitled folder/lab1_1/lab1_1/obj/Debug/lab1_1.csproj.CoreCompileInputs.cache
+/Users/macbookair132014/Desktop/untitled folder/lab1_1/lab1_1/obj/Debug/lab1_1.exe
+/Users/macbookair132014/Desktop/untitled folder/lab1_1/lab1_1/obj/Debug/lab1_1.pdb
+/Users/macbookair132014/Desktop/untitled folder/lab1_1/lab1_1/obj/Debug/lab1_1.exe.config
